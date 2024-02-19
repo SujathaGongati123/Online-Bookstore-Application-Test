@@ -89,27 +89,27 @@ public class PasswordResetFunctionalityTest {
         Assert.assertEquals(errMsg, expErrMsg, "Error message with incorrect mail is not matching..");
     }
 
-//    @Test(priority = 5)
-//    public void resetWithValidMail(){
-//        lostPasswordPage.enterUsernameOrMail("sujathagongati4@gmail.com");
-//        lostPasswordPage.clickOnResetBtn();
-//        WebElement successMsgEl = driver.findElement(By.cssSelector("div.woocommerce-message"));
-//
-//        String expSuccessMsg = "Password reset email has been sent.";
-//
-//        Assert.assertEquals(successMsgEl.getText(), expSuccessMsg, "Success message is not matching..");
-//    }
-//
-//    @Test(priority = 6)
-//    public void resetWithValidUsername(){
-//        lostPasswordPage.enterUsernameOrMail("sireeshamaddikari442001");
-//        lostPasswordPage.clickOnResetBtn();
-//        WebElement successMsgEl = driver.findElement(By.cssSelector("div.woocommerce-message"));
-//
-//        String expSuccessMsg = "Password reset email has been sent.";
-//
-//        Assert.assertEquals(successMsgEl.getText(), expSuccessMsg, "Success message is not matching..");
-//    }
+    @Test(priority = 5)
+    public void resetWithValidMail(){
+       lostPasswordPage.enterUsernameOrMail("sujathagongati4@gmail.com");
+       lostPasswordPage.clickOnResetBtn();
+       WebElement successMsgEl = driver.findElement(By.cssSelector("div.woocommerce-message"));
+
+       String expSuccessMsg = "Password reset email has been sent.";
+
+       Assert.assertEquals(successMsgEl.getText(), expSuccessMsg, "Success message is not matching..");
+   }
+
+   @Test(priority = 6)
+   public void resetWithValidUsername(){
+       lostPasswordPage.enterUsernameOrMail("sireeshamaddikari442001");
+       lostPasswordPage.clickOnResetBtn();
+       WebElement successMsgEl = driver.findElement(By.cssSelector("div.woocommerce-message"));
+
+       String expSuccessMsg = "Password reset email has been sent.";
+
+       Assert.assertEquals(successMsgEl.getText(), expSuccessMsg, "Success message is not matching..");
+   }
 
 }
 

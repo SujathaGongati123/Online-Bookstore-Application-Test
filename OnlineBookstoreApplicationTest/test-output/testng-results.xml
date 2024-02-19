@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T09:50:24 IST" name="Default Suite" finished-at="2024-02-19T09:51:23 IST" duration-ms="58968">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T09:50:24 IST" name="OnlineBookstoreApplicationTest" finished-at="2024-02-19T09:51:23 IST" duration-ms="58968">
+      <class name="HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:24 IST" name="setUp" finished-at="2024-02-19T09:50:30 IST" duration-ms="5597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingHomePageHeading()[pri:1, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:30 IST" name="verifyingHomePageHeading" finished-at="2024-02-19T09:50:30 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingHomePageHeading -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:30 IST" name="tearDown" finished-at="2024-02-19T09:50:31 IST" duration-ms="1162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:31 IST" name="setUp" finished-at="2024-02-19T09:50:35 IST" duration-ms="3665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingHomePageLogo()[pri:2, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:35 IST" name="verifyingHomePageLogo" finished-at="2024-02-19T09:50:35 IST" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingHomePageLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:35 IST" name="tearDown" finished-at="2024-02-19T09:50:36 IST" duration-ms="974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:36 IST" name="setUp" finished-at="2024-02-19T09:50:40 IST" duration-ms="3705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToSearchPage()[pri:3, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:40 IST" name="verifyingNavigationToSearchPage" finished-at="2024-02-19T09:50:40 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToSearchPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:40 IST" name="tearDown" finished-at="2024-02-19T09:50:41 IST" duration-ms="1004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:41 IST" name="setUp" finished-at="2024-02-19T09:50:44 IST" duration-ms="2638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToStorePage()[pri:4, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:44 IST" name="verifyingNavigationToStorePage" finished-at="2024-02-19T09:50:47 IST" duration-ms="2895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToStorePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:47 IST" name="tearDown" finished-at="2024-02-19T09:50:48 IST" duration-ms="1162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:48 IST" name="setUp" finished-at="2024-02-19T09:50:52 IST" duration-ms="4365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToAccountPage()[pri:5, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:52 IST" name="verifyingNavigationToAccountPage" finished-at="2024-02-19T09:50:55 IST" duration-ms="2733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToAccountPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:55 IST" name="tearDown" finished-at="2024-02-19T09:50:56 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:50:56 IST" name="setUp" finished-at="2024-02-19T09:51:01 IST" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToContactusPage()[pri:6, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:01 IST" name="verifyingNavigationToContactusPage" finished-at="2024-02-19T09:51:02 IST" duration-ms="1076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToContactusPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:02 IST" name="tearDown" finished-at="2024-02-19T09:51:03 IST" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:03 IST" name="setUp" finished-at="2024-02-19T09:51:07 IST" duration-ms="4301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToTrackOrderPage()[pri:7, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:07 IST" name="verifyingNavigationToTrackOrderPage" finished-at="2024-02-19T09:51:09 IST" duration-ms="1715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToTrackOrderPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:09 IST" name="tearDown" finished-at="2024-02-19T09:51:10 IST" duration-ms="1068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:10 IST" name="setUp" finished-at="2024-02-19T09:51:13 IST" duration-ms="3713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigationToCartPage()[pri:8, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:13 IST" name="verifyingNavigationToCartPage" finished-at="2024-02-19T09:51:15 IST" duration-ms="1171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigationToCartPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:15 IST" name="tearDown" finished-at="2024-02-19T09:51:16 IST" duration-ms="1155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:16 IST" name="setUp" finished-at="2024-02-19T09:51:19 IST" duration-ms="2841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyingNavigateToBooksCatelog()[pri:9, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:19 IST" name="verifyingNavigateToBooksCatelog" finished-at="2024-02-19T09:51:22 IST" duration-ms="3523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingNavigateToBooksCatelog -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:HomePageTest@ba54932]" started-at="2024-02-19T09:51:22 IST" name="tearDown" finished-at="2024-02-19T09:51:23 IST" duration-ms="1095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- HomePageTest -->
+    </test> <!-- OnlineBookstoreApplicationTest -->
+  </suite> <!-- Default Suite -->
+</testng-results>

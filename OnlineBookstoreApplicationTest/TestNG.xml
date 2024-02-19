@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OnlineBookstoreApplicationSuite" parallel="classes" thread-count="2">
+    <test name="OnlineBookstoreApplicationTest" >
+        <classes>
+            <class name="LoginPageTest" />
+            <class name="HomePageTest" />
+            <class name="RegisterPageTest"/>
+            <class name="PasswordResetFunctionalityTest"/>
+            <class name="StorePageTest"/>
+            <class name="CartPageTest"/>
+        </classes>
+    </test>
+</suite>
